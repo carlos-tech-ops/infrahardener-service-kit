@@ -59,7 +59,7 @@ Everything in Starter, plus:
 ## Book a Free Consultation
 I’ll review your current Linux server setup and recommend a hardening strategy.
 
-- Email: you@example.com *(replace with your address)*
+- Email: 0semec27@solent.ac.uk
 - GitHub: [github.com/carlos-tech-ops](https://github.com/carlos-tech-ops)
 - LinkedIn: [linkedin.com/in/carlos-semeao-04938a357](https://www.linkedin.com/in/carlos-semeao-04938a357/)
 
